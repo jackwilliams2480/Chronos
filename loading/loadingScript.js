@@ -1,3 +1,3 @@
 setTimeout(function() {
-    window.location.href = "../main/app.html";
+    window.location.href = "../webapp/index.html";
   }, 5000);

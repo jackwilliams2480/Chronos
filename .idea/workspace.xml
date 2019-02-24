@@ -14,24 +14,45 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/signup/signup.html">
+        <entry file="file://$PROJECT_DIR$/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="24" column="41" lean-forward="true" selection-end-line="121" />
+            <state relative-caret-position="219">
+              <caret line="389" column="67" selection-start-line="389" selection-start-column="67" selection-end-line="389" selection-end-column="67" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/signup/signupStyle.css">
+        <entry file="file://$PROJECT_DIR$/webapp/css/theme.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="268" column="28" selection-start-line="268" selection-start-column="21" selection-end-line="268" selection-end-column="28" />
+            <state relative-caret-position="575">
+              <caret line="3832" column="23" selection-start-line="3832" selection-start-column="23" selection-end-line="3832" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/inbox.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2197">
+              <caret line="288" column="92" selection-start-line="288" selection-start-column="92" selection-end-line="288" selection-end-column="92" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>alarm</find>
+      <find>c1</find>
+      <find>zmdi zmdi-money</find>
+      <find>widgetChart4</find>
+      <find>avatar-01</find>
+      <find>money</find>
+      <find>34</find>
+      <find>7</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,6 +64,9 @@
         <option value="$PROJECT_DIR$/website (blueprint)/signup/signup.html" />
         <option value="$PROJECT_DIR$/loading/loadingScript.js" />
         <option value="$PROJECT_DIR$/signup/signup.html" />
+        <option value="$PROJECT_DIR$/webapp/inbox.html" />
+        <option value="$PROJECT_DIR$/webapp/css/theme.css" />
+        <option value="$PROJECT_DIR$/webapp/index.html" />
       </list>
     </option>
   </component>
@@ -67,7 +91,32 @@
             <path>
               <item name="Chronos" type="b2602c69:ProjectViewProjectNode" />
               <item name="Chronos" type="462c0819:PsiDirectoryNode" />
-              <item name="signup" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chronos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chronos" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chronos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chronos" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chronos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chronos" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="icon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chronos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chronos" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -104,12 +153,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551015581846</updated>
-      <workItem from="1551015583094" duration="16081000" />
+      <workItem from="1551015583094" duration="21385000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16081000" />
+    <option name="totallyTimeSpent" value="21385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -199,6 +248,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/signup/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="72" column="18" lean-forward="true" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/signup/signupStyle.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -206,10 +262,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/signup/signup.html">
+    <entry file="file://$PROJECT_DIR$/webapp/images/icon/avatar-01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/css/font-face.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="24" column="41" lean-forward="true" selection-end-line="121" />
+        <state relative-caret-position="-4863" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/inbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2197">
+          <caret line="288" column="92" selection-start-line="288" selection-start-column="92" selection-end-line="288" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/css/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="3832" column="23" selection-start-line="3832" selection-start-column="23" selection-end-line="3832" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="389" column="67" selection-start-line="389" selection-start-column="67" selection-end-line="389" selection-end-column="67" />
         </state>
       </provider>
     </entry>

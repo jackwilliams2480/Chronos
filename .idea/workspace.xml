@@ -13,20 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="389" column="67" selection-start-line="389" selection-start-column="67" selection-end-line="389" selection-end-column="67" />
+            <state relative-caret-position="-586">
+              <caret line="203" column="64" selection-start-line="203" selection-start-column="64" selection-end-line="203" selection-end-column="64" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webapp/css/theme.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="3832" column="23" selection-start-line="3832" selection-start-column="23" selection-end-line="3832" selection-end-column="23" />
+            <state relative-caret-position="-11224">
+              <caret line="5802" column="25" selection-start-line="5802" selection-start-column="25" selection-end-line="5802" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -52,6 +52,8 @@
       <find>money</find>
       <find>34</find>
       <find>7</find>
+      <find>xl</find>
+      <find>noti</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -65,8 +67,8 @@
         <option value="$PROJECT_DIR$/loading/loadingScript.js" />
         <option value="$PROJECT_DIR$/signup/signup.html" />
         <option value="$PROJECT_DIR$/webapp/inbox.html" />
-        <option value="$PROJECT_DIR$/webapp/css/theme.css" />
         <option value="$PROJECT_DIR$/webapp/index.html" />
+        <option value="$PROJECT_DIR$/webapp/css/theme.css" />
       </list>
     </option>
   </component>
@@ -153,12 +155,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551015581846</updated>
-      <workItem from="1551015583094" duration="21385000" />
+      <workItem from="1551015583094" duration="23870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21385000" />
+    <option name="totallyTimeSpent" value="23870000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -277,17 +279,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/css/theme.css">
+    <entry file="file://$PROJECT_DIR$/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="3832" column="23" selection-start-line="3832" selection-start-column="23" selection-end-line="3832" selection-end-column="23" />
+        <state relative-caret-position="-586">
+          <caret line="203" column="64" selection-start-line="203" selection-start-column="64" selection-end-line="203" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/index.html">
+    <entry file="file://$PROJECT_DIR$/webapp/css/theme.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="389" column="67" selection-start-line="389" selection-start-column="67" selection-end-line="389" selection-end-column="67" />
+        <state relative-caret-position="-11224">
+          <caret line="5802" column="25" selection-start-line="5802" selection-start-column="25" selection-end-line="5802" selection-end-column="25" />
         </state>
       </provider>
     </entry>

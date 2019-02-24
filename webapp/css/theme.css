@@ -478,18 +478,18 @@ section {
 }
 
 .au-btn--green {
-    background: #63c76a;
+    background: #2345EA;
 }
 
 .au-btn--green:hover {
-    background: #59bd60;
+    background: #14B8F5;
 }
 
 .au-btn-plus {
     position             : absolute;
     height               : 45px;
     width                : 45px;
-    background           : #63c76a;
+    background           : #2345EA;
     -webkit-border-radius: 100%;
     -moz-border-radius   : 100%;
     border-radius        : 100%;
@@ -517,7 +517,7 @@ section {
 }
 
 .au-btn-plus:hover {
-    background: #59bd60;
+    background: #14B8F5;
 }
 
 .au-btn-load {
@@ -1123,7 +1123,7 @@ section {
     top                  : -1px;
     width                : 9px;
     height               : 15px;
-    border               : solid #00ad5f;
+    border               : solid #2345EA;
     border-width         : 0 4px 4px 0;
     -webkit-border-radius: 2px;
     -moz-border-radius   : 2px;
@@ -3442,7 +3442,7 @@ section {
 }
 
 .au-task__item--success .au-task__item-inner {
-    border-left: 3px solid #00ad5f;
+    border-left: 3px solid #2345EA;
 }
 
 .au-task__footer {
@@ -3591,7 +3591,7 @@ section {
 }
 
 .online .avatar::after {
-    background: #63c76a;
+    background: #2345EA;
 }
 
 .avatar {
@@ -4124,7 +4124,7 @@ section {
 }
 
 .dot--green {
-    background: #00ad5f;
+    background: #2345EA;
 }
 
 .dot--red {
@@ -4443,7 +4443,7 @@ section {
 }
 
 .role.member {
-    background: #57b846;
+    background: #2345EA;
 }
 
 .table-top-campaign.table td {
@@ -4652,7 +4652,7 @@ section {
 }
 
 .status--process {
-    color: #00ad5f;
+    color: #2345EA;
 }
 
 .status--denied {
@@ -4721,7 +4721,7 @@ section {
 }
 
 .table-data3 tbody td.process {
-    color: #00ad5f;
+    color: #2345EA;
 }
 
 .table-data3 tbody td.denied {
@@ -5011,7 +5011,7 @@ section {
 }
 
 .statistic__item--green {
-    background: #00b26f;
+    background: #2345EA;
 }
 
 .statistic__item--orange {
@@ -5121,7 +5121,7 @@ section {
 
 .au-alert > i {
     font-size     : 30px;
-    color         : #00ad5f;
+    color         : #2345EA;
     vertical-align: middle;
     margin-right  : 10px;
 }
@@ -5134,7 +5134,7 @@ section {
 .au-alert-success {
     background       : #e5f6eb;
     border-color     : #d9f1e3;
-    border-left-color: #00ad5f;
+    border-left-color: #2345EA;
 }
 
 .au-alert--70per {
@@ -5769,39 +5769,39 @@ section {
 }
 
 .switch-success > .switch-input:checked ~ .switch-label {
-    background  : #28a745 !important;
-    border-color: #1e7e34;
+    background  : #2345EA !important;
+    border-color: #2345EA;
 }
 
 .switch-success > .switch-input:checked ~ .switch-handle {
-    border-color: #1e7e34;
+    border-color: #2345EA;
 }
 
 .switch-success-outline > .switch-input:checked ~ .switch-label {
     background  : #fff !important;
-    border-color: #28a745;
+    border-color: #2345EA;
 }
 
 .switch-success-outline > .switch-input:checked ~ .switch-label::after {
-    color: #28a745;
+    color: #2345EA;
 }
 
 .switch-success-outline > .switch-input:checked ~ .switch-handle {
-    border-color: #28a745;
+    border-color: #2345EA;
 }
 
 .switch-success-outline-alt > .switch-input:checked ~ .switch-label {
     background  : #fff !important;
-    border-color: #28a745;
+    border-color: #2345EA;
 }
 
 .switch-success-outline-alt > .switch-input:checked ~ .switch-label::after {
-    color: #28a745;
+    color: #2345EA;
 }
 
 .switch-success-outline-alt > .switch-input:checked ~ .switch-handle {
-    background  : #28a745 !important;
-    border-color: #28a745;
+    background  : #2345EA !important;
+    border-color: #2345EA;
 }
 
 .switch-info > .switch-input:checked ~ .switch-label {

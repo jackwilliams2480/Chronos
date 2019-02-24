@@ -1,18 +1,20 @@
 h1{
-    font-family: 'Karla', sans-serif;
-    font-size  : 50px;
-    color      : black;
-    text-align : center;
-    position   : relative;
-    font-weight: 300;
+    
+  font-family: "Roboto", sans-serif;
+  font-size  : 50px;
+  color      : grey;
+  text-align : center;
+  position   : relative;
+  font-weight: 300;
 }
 p{
-    font-family: 'Karla', sans-serif;
-    font-size  : 20px;
-    color      : grey;
-    text-align : center;
-    position   : relative;
-    font-weight: 300;
+    
+  font-family: "Roboto", sans-serif;
+  font-size  : 20px;
+  color      : grey;
+  text-align : center;
+  position   : relative;
+  font-weight: 300;
 }
 #presentation{
     display     : block;
@@ -157,7 +159,7 @@ html {
     left             : 50%;
     width            : 30px;
     height           : 4px;
-    background       : #4285F4;
+    background       : #14B8F5;
     -webkit-transform: translate(-50%, -50%);
     transform        : translate(-50%, -50%);
   }
@@ -223,7 +225,7 @@ html {
   }
   .form-group button {
     outline       : none;
-    background    : #4285F4;
+    background    : #14B8F5;
     width         : 100%;
     border        : 0;
     border-radius : 4px;
@@ -238,7 +240,7 @@ html {
   }
   .two .form-group button {
     background: #FFFFFF;
-    color     : #4285F4;
+    color     : #14B8F5;
   }
   .form-group .form-remember {
     font-size     : 12px;
@@ -252,7 +254,7 @@ html {
     margin : 0 10px 0 0;
   }
   .form-group .form-recovery {
-    color          : #4285F4;
+    color          : #14B8F5;
     font-size      : 12px;
     text-decoration: none;
   }
@@ -277,7 +279,7 @@ html {
     position  : absolute;
     top       : 0;
     left      : 95%;
-    background: #4285F4;
+    background: #14B8F5;
     width     : 100%;
     min-height: 100%;
     padding   : 60px calc(10% + 60px) 60px 60px;
@@ -318,7 +320,7 @@ html {
   }
   .form-header h1 {
     padding       : 4px 0;
-    color         : #4285F4;
+    color         : #14B8F5;
     font-size     : 24px;
     font-weight   : 700;
     text-transform: uppercase;
@@ -351,6 +353,6 @@ html {
   
   .cp-fab {
     background: #FFFFFF !important;
-    color     : #4285F4 !important;
+    color     : #14B8F5 !important;
   }
   

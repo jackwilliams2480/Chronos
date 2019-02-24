@@ -2,31 +2,45 @@
     <head>
         <title>Chronos</title>
         <!-- imports-->
-        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" type="text/css" href="mainStyle.css">
         <link href="https://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet">
+        <!-- Compiled and minified CSS -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+        <!-- Compiled and minified JavaScript -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+        <script src="mainScript.js"></script>
+            
     </head>
 
     <body>
-        <!-- first desc-->
-        <div class="split left">
-            <div class="centered">
-                <img id="presentation" class="fade" src="Welcome.jpg">
+
+        <div class="navbar-fixed">
+            <nav>
+              <div class="nav-wrapper">
+                <a href="#!" class="brand-logo" id="title">&nbsp Chronos</a>
+                <ul class="right hide-on-med-and-down">
+                  <li><a href="#" id="linkone">Buffertime</a></li>
+                  <li><a href="#" id="linktwo">Alarms</a></li>
+                  <li><a href="#" id="linkthree">Weather & traffic delays</a></li>
+                  <li><a href="#" id="linkfour">Settings</a></li>
+                </ul>
+              </div>
+            </nav>
+          </div>
+         
+          <article class="clock">
+            <div class="hours-container">
+              <div class="hours"></div>
             </div>
-      </div>
-              
-        <div class="split right">
-            <div class="centered">
-                <h1 class="fade">Plan your day the right way</h1>
-                <p class="fade">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet elit odio, at eleifend tortor 
-                    vestibulum vestibulum. Proin porttitor, nisl sed rutrum vehicula, mauris tellus consequat mauris, vel 
-                    ullamcorper nisi nunc nec massa. Nullam ultrices neque id iaculis rhoncus. Nunc consectetur sed ligula bibendum 
-                    interdum. Curabitur in malesuada massa, et mattis mauris. Donec posuere, elit eget ultricies condimentum, dolor 
-                    nisi tempus nibh, a posuere neque dolor eu sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce 
-                    maximus, augue quis dictum iaculis, eros libero malesuada massa, sed cursus nibh metus vitae ante. Nullam porta 
-                    turpis massa, ac dapibus est mattis vel.</p>
+            <div class="minutes-container">
+              <div class="minutes"></div>
             </div>
-         </div>
-            
+            <div class="seconds-container">
+              <div class="seconds"></div>
+            </div>
+          </article>
 
     
     </body>

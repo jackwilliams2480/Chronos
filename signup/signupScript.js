@@ -22,7 +22,4 @@ $(document).ready(function() {
         'height': panelOne
       }, 200);
     });
-  }
-  $("input").prop('disabled', true);
-  
-  );
+  });

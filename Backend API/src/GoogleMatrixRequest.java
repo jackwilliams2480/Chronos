@@ -5,7 +5,7 @@ import java.io.IOException;
 
 public class GoogleMatrixRequest {
 
-    private static final String API_KEY = "AIzaSyD5J__Lx2_qXeImeaJ7n3c0w5k17Xw-8S0";
+    private static final String API_KEY = "AIzaSyAA20UU1BqsqXDuVj1uXtJmYEJbWzYNPjk"; //"AIzaSyD5J__Lx2_qXeImeaJ7n3c0w5k17Xw-8S0";
 
     OkHttpClient client = new OkHttpClient();
 

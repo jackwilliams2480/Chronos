@@ -92,7 +92,7 @@ p{
   }
   
 #Chronos {
-  color : #4285F4;
+  color         : #4285F4;
   text-transform: capitalize;
 }
   .centered{
@@ -105,10 +105,10 @@ p{
   }
   .centered2{
     position  : relative;
-    top       : 150%;
+    top       : 10%;
     left      : 50%;
     width     : 70%;
-    transform : translate(-50%, -50%);
+    transform : translate(-50%,0);
     text-align: center;
   }
 

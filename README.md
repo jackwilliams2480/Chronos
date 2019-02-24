@@ -1,7 +1,3 @@
 # Chronos
-BluePrint project using javafx
+BluePrint project using javascript and mapquest apis
 
-## Goals
--works with apis 
--fix description
--make readme look nice

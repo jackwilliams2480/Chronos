@@ -1,0 +1,141 @@
+h1{
+    font-family: 'Karla', sans-serif;
+    font-size  : 50px;
+    color      : black;
+    text-align : center;
+    position   : relative;
+    font-weight: 300;
+}
+p{
+    font-family: 'Karla', sans-serif;
+    font-size  : 20px;
+    color      : grey;
+    text-align : center;
+    position   : relative;
+    font-weight: 300;
+}
+#presentation{
+    display     : block;
+    margin-left : auto;
+    margin-right: auto;
+    width       : 748px;
+    height      : auto;
+}
+.fade{
+
+    -webkit-animation: fadein 1.5s;  /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation   : fadein 1.5s;  /* Firefox < 16 */
+    -ms-animation    : fadein 1.5s;  /* Internet Explorer */
+    -o-animation     : fadein 1.5s;  /* Opera < 12.1 */
+    animation        : fadein 1.5s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+.nav-wrapper{
+    background-color: #14B8F5;
+}
+#title{
+    font-size: 40px;
+}
+#linkone, #linktwo, #linkthree, #linkfour{
+    font-size: 20px;
+}
+.clock {
+    border-radius  : 50%;
+    background     : #fff url(ios_clock.svg) no-repeat center;
+    background-size: 88%;
+    height         : 20em;
+    padding-bottom : 31%;
+    position       : relative;
+    width          : 20em;
+  }
+  
+  .clock.simple:after {
+    background   : #000;
+    border-radius: 50%;
+    content      : "";
+    position     : absolute;
+    left         : 50%;
+    top          : 50%;
+    transform    : translate(-50%, -50%);
+    width        : 5%;
+    height       : 5%;
+    z-index      : 10;
+  }
+  .minutes-container, .hours-container, .seconds-container {
+    position: absolute;
+    top     : 0;
+    right   : 0;
+    bottom  : 0;
+    left    : 0;
+  }
+  .hours {
+    background      : #000;
+    height          : 10%;
+    left            : 48.75%;
+    position        : absolute;
+    top             : 40%;
+    transform-origin: 50% 100%;
+    width           : 2.5%;
+  }
+  .minutes {
+    background      : #000;
+    height          : 30%;
+    left            : 49%;
+    position        : absolute;
+    top             : 10%;
+    transform-origin: 50% 100%;
+    width           : 2%;
+  }
+  .seconds {
+    background      : #000;
+    height          : 35%;
+    left            : 49.5%;
+    position        : absolute;
+    top             : 14%;
+    transform-origin: 50% 80%;
+    width           : 1%;
+    z-index         : 8;
+  }
+  @keyframes rotate {
+    100% {
+      transform: rotateZ(360deg);
+    }
+  }
+  .hours-container {
+    animation: rotate 43200s infinite linear;
+  }
+  .minutes-container {
+    animation: rotate 3600s infinite linear;
+  }
+  .seconds-container {
+    animation: rotate 60s infinite linear;
+  } 
+  
